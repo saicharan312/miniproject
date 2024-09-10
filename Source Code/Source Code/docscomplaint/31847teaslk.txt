@@ -1,0 +1,8 @@
+I have finished following modules:
+
+1) Forgot password for customer & Vendor
+2) Update Profile for customer & Vendor
+3) Load nearest vendor list
+4) Load Service category list
+5) Change password for customer & Vendor
+
